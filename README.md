@@ -26,11 +26,7 @@ This project is a simple RESTful API built using ASP.NET Core and Entity Framewo
 
 ### Screenshots
 
-![image](https://github.com/user-attachments/assets/a29b6561-746a-4bde-a65b-596dbd10073a)
-
-![image](https://github.com/user-attachments/assets/41572715-c642-4793-8514-0e2512970f1b)
-
-![image](https://github.com/user-attachments/assets/a43c23bc-fe7b-4039-b12e-c98a8845f507)
+![image](https://github.com/user-attachments/assets/0f08582f-2b26-4cdf-9772-4e1d928d244a)
 
 ### Prerequisites
 
